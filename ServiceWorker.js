@@ -1,9 +1,9 @@
-const cacheName = "ETCIVGames-KickerSimulator-0.0.1";
+const cacheName = "Pokeaquadip-KickerSimulator-0.0.2";
 const contentToCache = [
-    "Build/WorkingBuild.loader.js",
-    "Build/WorkingBuild.framework.js",
-    "Build/WorkingBuild.data",
-    "Build/WorkingBuild.wasm",
+    "Build/0.0.2.loader.js",
+    "Build/0.0.2.framework.js",
+    "Build/0.0.2.data",
+    "Build/0.0.2.wasm",
     "TemplateData/style.css"
 
 ];
